@@ -1,0 +1,32 @@
+name: Update README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'  # Update the README every day at midnight
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      - name: Install dependencies
+        run: pip install python-dateutil
+
+      - name: Update README
+        run: python .github/scripts/update_readme.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README" || true  # Continue even if there are no changes
+          git push
