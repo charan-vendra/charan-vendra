@@ -2,7 +2,7 @@ import re
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 
-START_DATE = datetime(2012, 6, 1)
+START_DATE = datetime(2020, 6, 1)
 now = datetime.now()
 experience = relativedelta(now, START_DATE)
 
