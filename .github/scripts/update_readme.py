@@ -6,7 +6,7 @@ START_DATE = datetime(2020, 6, 1)
 now = datetime.now()
 experience = relativedelta(now, START_DATE)
 
-readme_path = "../../README.md"
+readme_path = "/home/runner/work/charan-vendra/charan-vendra/README.md"
 
 with open(readme_path, "r", encoding="utf-8") as file:
     content = file.read()
