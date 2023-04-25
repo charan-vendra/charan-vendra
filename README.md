@@ -94,11 +94,11 @@ When I'm not coding, you can find me _Chilling, Gaming or Exercising_.
 
 ## 📈 GitHub Stats
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=charan-vendra&show_icons=true&theme=radical"  /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=charan-vendra&show_icons=true&theme=radical&token=PAT_1"  /> 
 </a>
 <br></br>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan-vendra&layout=compact&theme=radical"  /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan-vendra&layout=compact&theme=radical&token=PAT_1"  /> 
 </a>
 <br></br>
 
