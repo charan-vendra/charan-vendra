@@ -13,7 +13,7 @@
   🔥 Full of Zest, always ready to help and learn.
 </p>
 
-## 💼 ( _2 years_ ~ _10 months_ ~ _27 days_ )  -> experience in:
+## 💼 ( _2 years_ ~ _10 months_ ~ _28 days_ )  -> experience in:
 
 - developing, delivering and maintaining scalable, responsive web applications.
 - designing, implementing, and optimizing RESTful APIs and improving user experience.
