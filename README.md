@@ -1,4 +1,4 @@
-# 🚀 I'm Charan Vendra!
+# 🚀 Hi there, I'm Charan Vendra!
 <p>
   💻 I'm a Full Stack Engineer with a passion for Programming.
 </p>
