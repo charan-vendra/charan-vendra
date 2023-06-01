@@ -1,10 +1,4 @@
 # 👋 Hi, I'm Charan Vendra!
-
-<p align="center">
-    <img src="https://avatars.githubusercontent.com/u/50615746?s=400&u=1a88f6c7101475246668810a9ea9fea14735ccb5&v=4" width="250" />
-</p>
-
-## 🌟 About Me
 <p>
   💻 I'm a Full Stack Engineer with a passion for Programming.
 </p>
