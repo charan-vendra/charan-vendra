@@ -11,9 +11,6 @@
   🔭 Favorite tech: Python, Node, React etc.
 </p>
 
-<p>
-  👷 Currently working at WHO
-</p>
 ## 💼 ( _3 years_ ~ _0 months_ ~ _0 days_ )  -> experience in:
 
 - developing, delivering and maintaining scalable, responsive web applications.
