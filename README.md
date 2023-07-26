@@ -12,7 +12,7 @@
 </p>
 
 <p>
-  🌐 Visit my website at: https://charanvendra.com to know more about my work.
+  ⚡ Visit my website at: https://charanvendra.com to know more about my work.
 </p>
 
 ## 💼 ( _3 years_ ~ _1 months_ ~ _25 days_ )  -> experience in:
