@@ -15,7 +15,7 @@
   ⚡ Visit my website at: https://charanvendra.com to know more about my work.
 </p>
 
-## 💼 ( _4 years_ ~ _0 months_ ~ _29 days_ )  -> experience in:
+## 💼 ( _4 years_ ~ _1 months_ ~ _0 days_ )  -> experience in:
 
 - developing, delivering and maintaining scalable, responsive web applications.
 - designing, implementing, and optimizing RESTful APIs and improving user experience.
