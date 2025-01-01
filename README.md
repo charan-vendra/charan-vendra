@@ -15,7 +15,7 @@
   ⚡ Visit my website at: https://charanvendra.com to know more about my work.
 </p>
 
-## 💼 ( _4 years_ ~ _6 months_ ~ _30 days_ )  -> experience in:
+## 💼 ( _4 years_ ~ _7 months_ ~ _0 days_ )  -> experience in:
 
 - developing, delivering and maintaining scalable, responsive web applications.
 - designing, implementing, and optimizing RESTful APIs and improving user experience.
@@ -104,4 +104,4 @@ When I'm not coding, you can find me _Chilling, Gaming or Exercising_.
 </a>
 <br></br>
 
-⭐️ Template by [Charan Vendra](https://github.com/charan-vendra) © 2024
+⭐️ Template by [Charan Vendra](https://github.com/charan-vendra) © 2025
