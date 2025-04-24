@@ -11,10 +11,6 @@
   🔭 Favorite tech: Python, Node, React etc.
 </p>
 
-<p>
-  ⚡ Visit my website at: https://charanvendra.com to know more about my work.
-</p>
-
 ## 💼 ( _4 years_ ~ _10 months_ ~ _23 days_ )  -> experience in:
 
 - developing, delivering and maintaining scalable, responsive web applications.
