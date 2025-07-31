@@ -11,7 +11,7 @@
   🔭 Favorite tech: Python, Node, React etc.
 </p>
 
-## 💼 ( _4 years_ ~ _11 months_ ~ _29 days_ )  -> experience in:
+## 💼 ( _4 years_ ~ _11 months_ ~ _30 days_ )  -> experience in:
 
 - developing, delivering and maintaining scalable, responsive web applications.
 - designing, implementing, and optimizing RESTful APIs and improving user experience.
