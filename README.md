@@ -11,7 +11,7 @@
   🔭 Favorite tech: Python, Node, React etc.
 </p>
 
-## 💼 ( _5 years_ ~ _4 months_ ~ _30 days_ )  -> experience in:
+## 💼 ( _5 years_ ~ _5 months_ ~ _0 days_ )  -> experience in:
 
 - developing, delivering and maintaining scalable, responsive web applications.
 - designing, implementing, and optimizing RESTful APIs and improving user experience.
@@ -100,4 +100,4 @@ When I'm not coding, you can find me _Chilling, Gaming or Exercising_.
 </a>
 <br></br>
 
-⭐️ Template by [Charan Vendra](https://github.com/charan-vendra) © 2025
+⭐️ Template by [Charan Vendra](https://github.com/charan-vendra) © 2026
